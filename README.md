@@ -1,2 +1,2 @@
-# 3DWorld
-Small 3d world skybox render
+# 3D Skybox
+Small 3d skybox render
